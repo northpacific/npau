@@ -1,0 +1,25 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "NorthPacific Consulting"
+theme = "kube"
+description = "Melbourne based consulting team. Works on DevOps, Automation, Data Analytics and Proof-Of-Concepts development. Startups, Small and Medium sized organizations can contact us to get work done" 
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "northpacific" # add your company name
+  github = "" # add your github profile name
+  twitter = "" # add your twitter profile
+  email = "myemail@myaddress.xxx"
+
+[[menu.main]]
+    name = "Docs"
+    weight = -100
+    url = "kube/docs/"
+[[menu.main]]
+    name = "Blog"
+    weight = -100
+    url = "/blog/"
+[[menu.main]]
+    name = "Faq"
+    weight = -100
+    url = "/faq/"
