@@ -1,3 +1,16 @@
+#top #top-brand a {
+    background: none;
+    text-indent: -9999px;
+    width: 70px;
+    line-height: 11px;
+    background-repeat: no-repeat;
+    text-decoration: none;
+}
+
+body #top-brand a {
+    font-weight: bold;
+}
+
 #hero {
     margin-top: 25px;
     padding-top: 0;
