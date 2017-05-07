@@ -12,14 +12,10 @@ Paginate = 4
   email = "myemail@myaddress.xxx"
 
 [[menu.main]]
-    name = "Docs"
+    name = "About"
     weight = -100
-    url = "kube/docs/"
+    url = "/company/"
 [[menu.main]]
     name = "Blog"
     weight = -100
     url = "/blog/"
-[[menu.main]]
-    name = "Faq"
-    weight = -100
-    url = "/faq/"
