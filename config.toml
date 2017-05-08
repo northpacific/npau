@@ -8,8 +8,8 @@ Paginate = 4
   RSSLink = "/index.xml"
   author = "northpacific" # add your company name
   github = "" # add your github profile name
-  twitter = "" # add your twitter profile
-  email = "myemail@myaddress.xxx"
+  twitter = "northpacific_au" # add your twitter profile
+  email = "info@northpacific.com.au"
 
 [[menu.main]]
     name = "About"
